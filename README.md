@@ -1,11 +1,4 @@
 ## 高质量Node.js微服务的编写和部署
-![node.js+docker](https://oayex8dmm.qnssl.com/image/others/header.png)
-
-微服务架构是一种构造应用程序的替代性方法。应用程序被分解为更小、完全独立的组件，这使得它们拥有更高的敏捷性、可伸缩性和可用性。一个复杂的应用被拆分为若干微服务，微服务更需要一种成熟的交付能力。持续集成、部署和全自动测试都必不可少。编写代码的开发人员必须负责代码的生产部署。构建和部署链需要重大更改，以便为微服务环境提供正确的关注点分离。后续我们会聊一下如何在时速云平台上集成 DevOps。
-
-![microservice](https://oayex8dmm.qnssl.com/image/others/microservice.png)
-
->Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.    --- https://nodejs.org
 
 Node.js 是构建微服务的利器，为什么这么说呢，我们先看下 Node.js 有哪些优势：
 
